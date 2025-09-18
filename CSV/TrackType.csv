@@ -1,0 +1,18 @@
+,Islamabad,Taxila,Murree,Nathiagali,Abbottabad,Mansehra,Balakot,Kaghan,Naran,Chilas,Bisham,Gilgit,Hunza,Khunjerab Pass,Malam Jabba,Skardu,Muzaffarabad
+Islamabad,0,S,S,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Taxila,,0,-1,-1,M,-1,-1,-1,-1,-1,-1,-1,-1,-1,S,-1,-1
+Murree,,,0,S,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,S
+Nathiagali,,,,0,S,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Abbottabad,,,,,0,M,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Mansehra,,,,,,0,M,-1,-1,-1,S,-1,-1,-1,-1,-1,-1
+Balakot,,,,,,,0,S,-1,-1,S,-1,-1,-1,-1,-1,-1
+Kaghan,,,,,,,,0,S,-1,-1,-1,-1,-1,-1,-1,-1
+Naran,,,,,,,,,0,S,-1,-1,-1,-1,-1,-1,-1
+Chilas,,,,,,,,,,0,J,S,S,-1,-1,-1,-1
+Bisham,,,,,,,,,,,0,-1,-1,-1,S,-1,-1
+Gilgit,,,,,,,,,,,,0,S,-1,-1,J,-1
+Hunza,,,,,,,,,,,,,0,J,-1,J,-1
+Khunjerab Pass,,,,,,,,,,,,,,0,-1,-1,-1
+Malam Jabba,,,,,,,,,,,,,,,0,-1,-1
+Skardu,,,,,,,,,,,,,,,,0,J
+Muzaffarabad,,,,,,,,,,,,,,,,,0
