@@ -314,4 +314,7 @@ if __name__ == '__main__':
                 print('Dijkstra cost (distance, jeep_count):', prob.getCostOfActions(path2))
                 
                 
-"Ru"
+# Run it in the following manner python "C:\GitHub\Assignment01_Interface_CSV\Code\search.py" --mode route --start "Islamabad" --goal "Skardu" --connections "C:\GitHub\Assignment01_Interface_CSV\CSV\Connections.csv" --heuristics "C:\GitHub\Assignment01_Interface_CSV\CSV\heuristics.csv" --tracktype "C:\GitHub\Assignment01_Interface_CSV\CSV\TrackType.csv" --show-expanded"
+# You can replace the --mode with the waterjug example, you can also replace the start and goal city
+# --show-expanded shows all the nodes that the Dijkstra nad A* expanded to.
+# We have done it in a way that Dijkstra is also implemented through A* but with 0 Heuristic, which essentially it is.
